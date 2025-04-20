@@ -9,3 +9,5 @@ These are my scripts to automatically install Arch Linux.
 6. Type ```reboot``` to reboot.
 # Defaults
 The scripts will install Arch Linux on ```/dev/sda``` by default. The username is ```alex``` and the default password is ```password```.
+# To Be Added
+Add default dotfiles, add way to automatically install EFI Grub instead of legacy boot Grub. Newer computers are removing the ability to legacy boot.
